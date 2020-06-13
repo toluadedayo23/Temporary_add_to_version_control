@@ -1,3 +1,5 @@
 
 
-print(x)
+print("x")
+
+print("thename")
